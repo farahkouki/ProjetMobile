@@ -33,9 +33,6 @@ L’application propose une interface moderne avec des animations fluides grâce
 - [`shimmer`](https://pub.dev/packages/shimmer) pour les états de chargement élégants.  
 - Utilisation des **Google Fonts** pour un rendu typographique professionnel.  
 
-Exemple d’écran :  
-
-![Screenshot](assets/images/screenshot_home.png)
 
 ---
 
