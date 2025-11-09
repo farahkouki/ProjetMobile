@@ -1,0 +1,32 @@
+name: gestion_voyages
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # ✅ Ces lignes doivent être indentées ici
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  pdf: ^3.10.8
+  path_provider: ^2.1.2
+  open_file: ^3.3.2
+  uuid: ^4.2.1
+  sqflite: ^2.3.0
+  cupertino_icons: ^1.0.8
+  qr_flutter: ^4.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
