@@ -48,7 +48,3 @@ Exemple d’écran :
 - **Image Picker** pour les images des véhicules et conducteurs  
 - **QR Flutter** pour la génération de QR codes  
 
----
-
-## 📂 Structure du projet
-
